@@ -3,8 +3,12 @@ Majesty Translator - Wiki (How to...)
 
 ![Majesty Translator](https://tmajesty.xyz/img/tmajesty_ico.png)
 
-This is the Wiki space for Majesty Translator Discord BOT (TMajesty). If you want to invite it into your Discord server, click here [INSTALL TMAJESTY](https://discord.com/api/oauth2/authorize?client_id=1011633031494246480&permissions=518416362560&scope=bot%20applications.commands) and enjoy TMajesty.
+This is the Wiki space of Majesty Translator Discord BOT (TMajesty). If you want to invite it into your Discord server, click here [INSTALL TMAJESTY](https://discord.com/api/oauth2/authorize?client_id=1011633031494246480&permissions=518416362560&scope=bot%20applications.commands) and enjoy TMajesty.
 
-Please refer to [Wiki TAB](https://github.com/MassimoMax70/tmajesty_wiki/wiki) to understand how TMajesty work and how to configure it into you community Discord server.
+Please refer to [the upper Wiki TAB](https://github.com/MassimoMax70/tmajesty_wiki/wiki) to understand how TMajesty work and how to configure it into you community Discord server.
 
 Enjoy TMajesty!
+
+> [!Note]
+> We have also a dedicated Discord Support Server with some Video-Tutorial, so please join our server [here](https://discord.gg/S8ZAswgeSq) and explore all you can easily do with TMajesty.
+
