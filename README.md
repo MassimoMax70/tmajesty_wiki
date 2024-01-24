@@ -5,7 +5,7 @@ Majesty Translator - Wiki (How to...)
 
 This is the Wiki space of Majesty Translator Discord BOT (TMajesty). 
 
-***Please refer to [the upper Wiki TAB](https://github.com/MassimoMax70/tmajesty_wiki/wiki) to enter WIKI section and understand how TMajesty work and how to best configure it in your community Discord server.***
+***Please refer to [the upper Wiki TAB](https://github.com/maxgb-dev/tmajesty_wiki/wiki) to enter WIKI section and understand how TMajesty work and how to best configure it in your community Discord server.***
 
 Enjoy TMajesty!
 
