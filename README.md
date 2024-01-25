@@ -1,7 +1,5 @@
 # TMajesty - Wiki
 Majesty Translator - Wiki (How to...) 
-
-![Majesty Translator](https://tmajesty.xyz/img/tmajesty_ico.png)
 <p align="left">
 <img width="15%" height="15%" src="https://tmajesty.xyz/img/tmajesty_ico.png">
 </p>
