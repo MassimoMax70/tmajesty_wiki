@@ -2,6 +2,9 @@
 Majesty Translator - Wiki (How to...) 
 
 ![Majesty Translator](https://tmajesty.xyz/img/tmajesty_ico.png)
+<p align="left">
+<img width="35%" height="35%" src="https://tmajesty.xyz/img/tmajesty_ico.png">
+</p>
 
 This is the Wiki space of Majesty Translator Discord BOT (TMajesty). 
 
